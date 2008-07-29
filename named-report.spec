@@ -1,7 +1,7 @@
 Summary:	ISC BIND 9 named log message summary and report tool
 Name:		named-report
 Version:	1.4
-Release:	%mkrel 3
+Release:	%mkrel 5
 License:	GPL
 Group:		System/Servers
 URL:		http://aharp.ittns.northwestern.edu/software/
