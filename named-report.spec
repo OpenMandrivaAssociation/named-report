@@ -4,7 +4,7 @@ Version:	1.4
 Release:	8
 License:	GPL
 Group:		System/Servers
-URL:		http://aharp.ittns.northwestern.edu/software/
+URL:		https://aharp.ittns.northwestern.edu/software/
 Source:		http://aharp.ittns.northwestern.edu/software/named-report-1.4.tar.bz2
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-buildroot
